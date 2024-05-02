@@ -1,0 +1,7 @@
+{
+  "DynamicTableHeader": "h1:contains(\"Dynamic HTML TABLE Tag\")",
+  "TableData": "summary:contains(\"Table Data\")",
+  "InputField": "#jsondata",
+  "RefreshTableButton": "#refreshtable",
+  "DynamicTableData": "#dynamictable>tr"
+}
